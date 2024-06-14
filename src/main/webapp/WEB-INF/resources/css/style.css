@@ -1,0 +1,18 @@
+
+  .email-form-group {
+    margin-bottom: 1rem;
+  }
+
+  .email-form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .email-form-actions {
+    text-align: right;
+  }
+
+  .email-form-message {
+    color: red;
+    margin-top: 1rem;
+  }
